@@ -1,6 +1,6 @@
 ﻿# Métrica para verificação de acurácia de métodos de predição de peso de bovinos apoiados em visão computacional
 
-Este repositório disponibiliza os dados referentes aos resultados do estudo de caso e códigos da pesquisa.
+Este repositório disponibiliza os dados referentes aos resultados do estudo de caso e códigos-fonte da pesquisa.
 
 > Trabalho de Conclusão de Curso | Tecnologia em Análise e Desenvolvimento de Sistemas | IFG – Câmpus Formosa.
 
